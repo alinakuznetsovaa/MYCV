@@ -1,0 +1,82 @@
+
+html{
+    font-family: 'Times New Roman', Times, serif;
+    size: 14pt;
+    
+}
+
+*{
+    color:black;
+}
+
+h1{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+a{
+    color:blue;
+}
+
+.item{
+    display: flex;
+    margin-bottom: 0.25em;
+
+}
+
+.item_value{
+    margin-left: 15px;
+}
+
+.item_type{
+    font-style: italic;
+}
+
+
+.contact_type{
+    font-style: italic;
+}
+
+.contact_value{
+    margin-left: 15px;
+}
+
+.contact{
+    display: flex;
+    margin-bottom: 0.3em;
+
+}
+
+table,td,tr{
+
+    margin-left: 15px;
+    margin-bottom: 0.1em;
+
+}
+
+td{
+    text-align: left;
+    padding-left: 60px;
+ 
+}
+
+p{
+    padding-top: 3em;
+}
+
+.cv{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+section{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+
+
+li{
+    list-style-type: square;
+}
+
